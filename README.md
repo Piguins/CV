@@ -1,1 +1,1 @@
-https://piguins.github.io/CV/
+Deploy: https://piguins.github.io/CV/
