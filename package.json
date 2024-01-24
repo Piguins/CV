@@ -1,0 +1,11 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "Deploy:\r  https://piguins.github.io/CV/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
